@@ -12,3 +12,4 @@
 **Empthasized text**
 ***Emphasized text***
 .[facebook].(www.facebook.com)
+!.[picture].(https://openai.com/content/images/2020/04/2x-no-mark-1.jpg)
